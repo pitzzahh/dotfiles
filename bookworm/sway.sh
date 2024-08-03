@@ -40,6 +40,7 @@ sudo apt install -y fonts-recommended fonts-font-awesome fonts-terminus papirus-
 
 mkdir -p ~/.config/sway
 cp /etc/sway/config ~/.config/sway/config
+cp ../.gitconfig ~/.gitconfig
 
 sudo apt autoremove
 
