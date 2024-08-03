@@ -1,0 +1,6 @@
+[commit]
+	gpgsign = true
+[user]
+	signingkey = <key>
+	name = Peter John Arao
+	email = pitzzahh@gmail.com
