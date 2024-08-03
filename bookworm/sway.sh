@@ -3,7 +3,7 @@
 xdg-user-dirs-update
 mkdir ~/Screenshots/
 
-sudo apt install -y sway swaybg waybar swaylock swayidle swayimg combi light
+sudo apt install -y sway swaybg waybar swaylock swayidle swayimg combi
 
 sudo apt install -y foot
 
@@ -20,8 +20,7 @@ sudo apt install -y unzip
 
 sudo apt install -y pipewire
 
-sudo apt install -y mpv mpv-mpris nvtop pamixer ffmpeg qimgv gimp obs-studio mkvtoolnix-gui redshift eog brightnessctl
-
+sudo apt install -y mpv nvtop ffmpeg light
 
 # sudo apt install -y l3afpad 
 # sudo apt install -y geany geany-plugin-addons geany-plugin-git-changebar geany-plugin-overview geany-plugin-spellcheck geany-plugin-treebrowser geany-plugin-vimode
